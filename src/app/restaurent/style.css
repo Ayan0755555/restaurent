@@ -1,0 +1,28 @@
+*{
+    text-decoration: none;
+}
+.header-wrapper{
+    display: flex;
+    justify-content: space-between;
+   
+}
+.header-wrapper ul{
+    display: flex;
+    list-style-type: none;
+  
+}
+.header-wrapper ul li {
+    padding: 8px;
+    color: #fcdfcd;
+
+}
+
+.footer-wrapper{
+  position: fixed;  
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  background-color: #e0987e;
+
+
+}
